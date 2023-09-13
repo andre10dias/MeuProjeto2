@@ -1,0 +1,9 @@
+Exercício 5: Trabalhando com Repositórios Remotos:
+
+Crie um repositório vazio no GitHub chamado "MeuProjeto".
+Conecte seu repositório local ao repositório remoto no GitHub.
+Envie (push) suas alterações locais para o repositório remoto.
+
+
+
+Obs.: Criei o repositório com o nome MeuProjeto2, porque já existe no git um repositório com o nome MeuProjeto proveniente do Exercício 2: Iniciando um Repositório.
